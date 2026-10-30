@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "nuevo-mundo-importaciones-informe-de-clonaci-n-mvum9h3u",
+  "title": "Nuevo Mundo Importaciones · Informe de clonación",
+  "version": "0.1.0",
+  "description": "Reusable skill material detected from a project file.",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
